@@ -1,0 +1,37 @@
+		body{
+			font-family: "맑은 고딕", "굴림";
+			background: url(images/paper.jpg);
+			background-repeat: no-repeat;
+			background-size: 1050px 900px;
+			background-position: 10px 70px;
+		}
+		li{list-style: circle;}
+		h1{text-align: center;}
+		p{
+			color:#003399;
+			padding: 5px;
+		}
+		a:link, a:visited{
+			text-decoration: none;
+			color: #23A41A;
+		}
+
+		a:hover, a:active {
+			text-decoration: none;
+			background-color: #BFFFB7;
+		}
+		#wrap{width:960px; margin: 0 auto;}
+		#main_content div {
+			
+			font-weight: bold;
+			padding: 0px 20px 20px 20px;
+		}
+
+		.poem {
+			text-align: center;
+			color: orange;}
+		.maker {
+			position: fixed;
+			bottom: 5px;
+			right: 10px;
+		}
