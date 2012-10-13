@@ -104,6 +104,7 @@ input,button,textarea,select{font-size:100%;}
 
 
 		/* -----index2.html css----- */
+		
 		#contents2 h1 {
 			font-size: 150%;
 			font-weight: bold;
@@ -136,7 +137,7 @@ input,button,textarea,select{font-size:100%;}
 
 		/* -----index3.html css ----- */
 		#contents3 {
-
+		
 			
 		}
 		#contents3 h1 {
@@ -156,6 +157,7 @@ input,button,textarea,select{font-size:100%;}
 				border:1px solid #000000;
 				margin: 5px;
 				padding: 5px;
+
 			}
 		#left_section{
 			border : #fff 1px solid;
